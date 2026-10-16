@@ -1,6 +1,7 @@
 <h1 align="center">We Care</h1>
 <br>
-<p>We care é um dos projetos ensinado pela <a href="https://www.devclub.com.br/">DevClub</a> no curso Full Stack Pro no modulo HTML e CSS.</p>
+<p>We care é um dos projetos ensinado pela <a href="https://www.devclub.com.br/">DevClub</a> no curso Full Stack Pro no modulo HTML e CSS.
+Foi trabalho o cabeçalho da pagina, posição da imagem na pagina, animação dos botões em relação ao eixo Y e alinhamento do paragrafo. Fiz também por curiosidade, o rgb nas palavras "We care" e "About you pet" para ir além do que foi proposto em aula.</p>
 <br>
 <p>Linguagen utilizadas nesse projeto:</p>
 - HTML
